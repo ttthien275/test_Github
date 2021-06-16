@@ -125,6 +125,8 @@
     <Compile Include="Controllers\demoController.cs" />
     <Compile Include="Controllers\Default2Controller.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
+    <Compile Include="Controllers\FabController.cs" />
+    <Compile Include="Controllers\FaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\TestGithubController.cs" />
     <Compile Include="Global.asax.cs">
@@ -177,6 +179,8 @@
     <Folder Include="Views\Default\" />
     <Folder Include="Views\Demo2\" />
     <Folder Include="Views\demo\" />
+    <Folder Include="Views\Fab\" />
+    <Folder Include="Views\Fa\" />
     <Folder Include="Views\TestGithub\" />
   </ItemGroup>
   <ItemGroup>
