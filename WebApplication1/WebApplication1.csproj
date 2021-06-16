@@ -134,6 +134,7 @@
     <Compile Include="Controllers\hehfController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\jaaController.cs" />
+    <Compile Include="Controllers\jkkkkController.cs" />
     <Compile Include="Controllers\TestGithubController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -193,6 +194,7 @@
     <Folder Include="Views\fdshffafw\" />
     <Folder Include="Views\hehf\" />
     <Folder Include="Views\jaa\" />
+    <Folder Include="Views\jkkkk\" />
     <Folder Include="Views\TestGithub\" />
   </ItemGroup>
   <ItemGroup>
