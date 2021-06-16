@@ -130,8 +130,10 @@
     <Compile Include="Controllers\ewqeqwController.cs" />
     <Compile Include="Controllers\FabController.cs" />
     <Compile Include="Controllers\FaController.cs" />
+    <Compile Include="Controllers\fdshffafwController.cs" />
     <Compile Include="Controllers\hehfController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\jaaController.cs" />
     <Compile Include="Controllers\TestGithubController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -188,7 +190,9 @@
     <Folder Include="Views\ewqeqw\" />
     <Folder Include="Views\Fab\" />
     <Folder Include="Views\Fa\" />
+    <Folder Include="Views\fdshffafw\" />
     <Folder Include="Views\hehf\" />
+    <Folder Include="Views\jaa\" />
     <Folder Include="Views\TestGithub\" />
   </ItemGroup>
   <ItemGroup>
