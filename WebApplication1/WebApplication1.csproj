@@ -122,6 +122,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\Demo2Controller.cs" />
     <Compile Include="Controllers\demoController.cs" />
+    <Compile Include="Controllers\Default2Controller.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\TestGithubController.cs" />
@@ -172,6 +173,7 @@
     <Folder Include="Models\" />
     <Folder Include="Views\Demo2\" />
     <Folder Include="Views\demo\" />
+    <Folder Include="Views\Default2\" />
     <Folder Include="Views\Default\" />
     <Folder Include="Views\TestGithub\" />
   </ItemGroup>
