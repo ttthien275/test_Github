@@ -120,12 +120,9 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-<<<<<<< HEAD
     <Compile Include="Controllers\Demo2Controller.cs" />
     <Compile Include="Controllers\demoController.cs" />
-=======
     <Compile Include="Controllers\DefaultController.cs" />
->>>>>>> 78e00e11918c0eddcadf8518801949194743d109
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\TestGithubController.cs" />
     <Compile Include="Global.asax.cs">
@@ -173,12 +170,9 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-<<<<<<< HEAD
     <Folder Include="Views\Demo2\" />
     <Folder Include="Views\demo\" />
-=======
     <Folder Include="Views\Default\" />
->>>>>>> 78e00e11918c0eddcadf8518801949194743d109
     <Folder Include="Views\TestGithub\" />
   </ItemGroup>
   <ItemGroup>
