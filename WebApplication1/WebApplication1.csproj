@@ -120,6 +120,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\asdasController.cs" />
     <Compile Include="Controllers\Demo2Controller.cs" />
     <Compile Include="Controllers\demoController.cs" />
     <Compile Include="Controllers\Default2Controller.cs" />
@@ -171,10 +172,11 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\Demo2\" />
-    <Folder Include="Views\demo\" />
+    <Folder Include="Views\asdas\" />
     <Folder Include="Views\Default2\" />
     <Folder Include="Views\Default\" />
+    <Folder Include="Views\Demo2\" />
+    <Folder Include="Views\demo\" />
     <Folder Include="Views\TestGithub\" />
   </ItemGroup>
   <ItemGroup>
