@@ -122,6 +122,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\aAAAController.cs" />
     <Compile Include="Controllers\aBBBController.cs" />
+    <Compile Include="Controllers\aCCCController.cs" />
     <Compile Include="Controllers\areController.cs" />
     <Compile Include="Controllers\asdasController.cs" />
     <Compile Include="Controllers\CodeController.cs" />
@@ -187,6 +188,7 @@
     <Folder Include="Models\" />
     <Folder Include="Views\aAAA\" />
     <Folder Include="Views\aBBB\" />
+    <Folder Include="Views\aCCC\" />
     <Folder Include="Views\are\" />
     <Folder Include="Views\asdas\" />
     <Folder Include="Views\Code\" />
