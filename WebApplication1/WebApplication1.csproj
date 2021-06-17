@@ -120,6 +120,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\aAAAController.cs" />
     <Compile Include="Controllers\areController.cs" />
     <Compile Include="Controllers\asdasController.cs" />
     <Compile Include="Controllers\CodeController.cs" />
@@ -183,6 +184,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\aAAA\" />
     <Folder Include="Views\are\" />
     <Folder Include="Views\asdas\" />
     <Folder Include="Views\Code\" />
